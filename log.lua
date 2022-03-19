@@ -1,3 +1,5 @@
+-- Logs bascic info, nothing malicious. Join our server to see what is being logged. (For security reasons by the way.)
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
